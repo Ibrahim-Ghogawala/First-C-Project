@@ -88,3 +88,4 @@ Console.WriteLine("Welcome to our Cafe!");
     Console.WriteLine("\nYour total is: R" + total);
     
 
+//Comment
